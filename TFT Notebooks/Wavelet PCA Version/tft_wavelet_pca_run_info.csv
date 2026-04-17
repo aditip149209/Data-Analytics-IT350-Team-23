@@ -1,0 +1,8 @@
+Metric,Value
+Train Samples,100977
+Val Samples,122615
+Test Samples,144256
+Feature Count,42
+Wavelet Type,db4
+Decomposition Level,3
+PCA Components,12
