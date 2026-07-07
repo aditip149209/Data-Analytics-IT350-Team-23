@@ -13,7 +13,7 @@ We built and compared **4 TFT variants** to isolate the effect of dimensionality
 | V1 — Baseline | 18 engineered features, no transform | 18 | 115.5k |
 | V2 — PCA | V1 + 12 PCA components | 12 | 127k |
 | V3 — PCA + Optuna | Same as V2, Optuna-tuned architecture | 12 | 89k |
-| V4 — Wavelet + PCA | DWT sub-bands + PCA (12 PC) + cyclical time encoding | 42 | 178.6k |
+| V4 — Wavelet + PCA | DWT sub-bands + PCA (12 PC) + cyclical time encoding | 24 | 178.6k |
 
 ## Dataset
 
